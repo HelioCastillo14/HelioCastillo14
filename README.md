@@ -66,4 +66,3 @@ Criterio sugerido: >500 contribuciones anuales y al menos 3 repos con actividad 
 
 </div>
 -->
--->
