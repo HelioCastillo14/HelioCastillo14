@@ -12,9 +12,9 @@ Sistemas de recomendación · Knowledge Engineering · Modelado estadístico
 
 ---
 
-En julio de 2024 entré a una ONG educativa panameña a construir un sistema de recomendación para estudiantes. No había infraestructura para desplegarlo ni datos de producción con qué presumir. La única salida era hacer el trabajo bien por dentro: benchmarks honestos, pipelines reproducibles y estructurar formalmente un currículo que nadie había modelado antes.
+En julio de 2024 entré a una ONG educativa panameña a construir un sistema de recomendación para estudiantes, sin infraestructura de producción ni datos con qué presumir. La restricción obligó a lo esencial: benchmarks honestos y pipelines reproducibles. De ahí pasé a estructurar formalmente un currículo que nadie había modelado, y hoy trabajo en recomendación contextual para usuarios sin historial — la mayoría del tráfico real en una plataforma educativa gratuita.
 
-Sigo en ese problema. Cómo hacer que un sistema entienda a una persona cuando los datos son pocos y los recursos también. Es el escenario normal en Latinoamérica, y me parece el más interesante que hay.
+Ese es el patrón que sigo buscando: hacer que un sistema entienda a una persona cuando los datos y los recursos son pocos. Es el escenario normal en Latinoamérica, y me parece el más interesante que hay.
 
 Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá.
 
@@ -67,4 +67,5 @@ Criterio sugerido: >500 contribuciones anuales y al menos 3 repos con actividad 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" />
 
 </div>
+-->
 -->
