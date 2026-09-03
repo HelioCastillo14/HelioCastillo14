@@ -34,7 +34,7 @@ Estudiante de Ingeniería de Software en la Universidad Tecnológica de Panamá.
 
 ### Herramientas
 
-<img src="https://skillicons.dev/icons?i=py,postgres,sklearn,docker,linux,git,github,vscode" alt="stack" />
+<img src="https://skillicons.dev/icons?i=py,jupyter,fastapi,nextjs,postgres,supabase,sklearn,selenium,docker,linux,git,github,vscode" alt="stack" />
 
 Bases de datos vectoriales · LangChain · Ontologías (SAMOD, MenthOntology)
 
