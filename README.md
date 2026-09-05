@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="assets/banner.jpg" alt="Portada" width="900" />
+</div>
+
 # Helio Castillo
 
 **Jr. Data Scientist · Panamá**
